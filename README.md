@@ -1,4 +1,3 @@
-Here’s a professional and complete `README.md` file for your **OTP Authentication System using Blockchain Technology**. It includes project overview, setup instructions, architecture, features, and how to contribute:
 
 ---
 
